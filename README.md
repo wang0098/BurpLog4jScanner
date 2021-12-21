@@ -1,4 +1,4 @@
-# BurpLog4j2Scan
+# BurpLog4j2Scan (basing on tangxiaofeng7)
 
 ### How to use
 1. Load BurpLog4j2Scan.jar through Extender
