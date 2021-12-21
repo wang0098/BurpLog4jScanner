@@ -1,6 +1,5 @@
 # BurpLog4j2Scan
-### Notice(it can't be used in cwd Machine as there's no dns server.)
-### Download: please get the latest tool from my repository https://github.com/263423403/BurpLog4jScanner
+
 ### How to use
 1. Load BurpLog4j2Scan.jar through Extender
 ![img.png](images/1.png)
